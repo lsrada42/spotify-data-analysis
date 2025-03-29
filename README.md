@@ -1,3 +1,7 @@
+![Spotify](spotify.jpeg)
+
+# Spotify Track and Artist Trend Analysis Using Python and SQL
+*Built a data pipeline with Python ETL and analyzed track and artist trends using SQL*
 
 ### Overview
 This project explores a comprehensive Spotify music dataset to derive insights into artist popularity, track characteristics, and user engagement. The goal was to build a data pipeline that extracts, transforms, and loads the dataset into a SQL database, followed by performing SQL queries to analyze streaming trends, track statistics, and album performance.
@@ -8,6 +12,7 @@ A complete ETL (Extract, Transform, Load) process was implemented:
 - Extract: The dataset was sourced using the Kaggle API.
 - Transform: Data was cleaned and transformed using Python to handle missing values, standardize columns, and prepare it for structured analysis.
 - Load: The cleaned data was loaded into SQL Server to facilitate efficient querying and advanced analytics.
+
 
 ### Tools and Technologies
 
