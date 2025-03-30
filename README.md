@@ -1,5 +1,3 @@
-![Spotify](spotify.jpeg)
-
 # Spotify Track and Artist Trend Analysis Using Python and SQL
 *Built a data pipeline with Python ETL and analyzed track and artist trends using SQL*
 
